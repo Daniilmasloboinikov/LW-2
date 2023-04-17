@@ -20,4 +20,6 @@ int main(){
     if (a>b) {cout << "max(a,b) = " << a << '\n';}
     else {cout << "max(a,b) = " << b << '\n';}
     
+    if (a<b) {cout << "min(a,b) = " << a << '\n';}
+    else {cout << "min(a,b) = " << b << '\n';}
 }
